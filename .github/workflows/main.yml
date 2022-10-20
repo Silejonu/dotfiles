@@ -25,5 +25,5 @@ jobs:
       uses: yesolutions/mirror-action@master
       with:
         REMOTE: 'https://codeberg.org/Silejonu/dotfiles.git'
-        GIT_USERNAME: spyoungtech
+        GIT_USERNAME: Silejonu
         GIT_PASSWORD: ${{ secrets.GIT_PASSWORD }}
